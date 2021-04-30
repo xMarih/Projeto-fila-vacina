@@ -10,7 +10,11 @@ Kleber Souza (https://github.com/ProfKleberSouza)
 
 # Referências
 https://gauchazh.clicrbs.com.br/especiais/veja-seu-lugar-na-fila-de-vacinacao/
+
 https://vacinaminas.mg.gov.br/
+
 https://www.acessa.com/saude/vacinacao-covid/
+
 https://infograficos.oglobo.globo.com/sociedade/fila-vacina-coronavirus.html
+
 
